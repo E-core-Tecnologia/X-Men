@@ -5,6 +5,3 @@ Poderes: Fator de cura acelerado, garras de adamantium e sentidos aguçados.
 Professor X (Charles Xavier)
 Poderes: Telepatia poderosa.
 Líder dos X-Men e fundador da Escola para Jovens Superdotados.
-Tempestade (Ororo Munroe)
-Poderes: Controle do clima (tempestades, ventos, raios).
-Uma das líderes femininas fortes do grupo.
