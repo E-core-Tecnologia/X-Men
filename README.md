@@ -5,6 +5,3 @@ Poderes: Fator de cura acelerado, garras de adamantium e sentidos aguçados.
 Professor X (Charles Xavier)
 Poderes: Telepatia poderosa.
 Líder dos X-Men e fundador da Escola para Jovens Superdotados.
-Ciclope (Scott Summers)
-Poderes: Dispara rajadas ópticas poderosas dos olhos.
-Líder de campo do time em muitas histórias.
